@@ -1,5 +1,5 @@
 
-#Uala-movies 
+# Uala-movies 
 
 Uala-movies es una empresa pujante que nos ha encargado relevar su negocio, que consiste en ofrecer por streaming series, películas y documentales. De éstos se sabe el año de estreno y la duración. Dentro del sistema también están los usuarios, que se suscriben y tienen acceso a todo el contenido.
 
@@ -24,7 +24,7 @@ Uala-movies es una empresa pujante que nos ha encargado relevar su negocio, que 
 * Diagrama de clases de la solución planteada.
 
 
-####Aclaraciones importantes:
+#### Aclaraciones importantes:
 * Lo mas importante es el diseño, para eso necesitamos algún diagrama de clases de la solución, si te resulta mas fácil hacerlo en papel y subir la foto no hay problema, mientras se entienda para nosotros es suficiente.
 * La solución debe ser con Java puro, **no usar ningún framework (Spring, Spark, Jersey, etc)**.
 * Nos interesa ver como pantearías el testing, no es necesario cubrir toda la casuística, con que sea un happy path estamos bien. 
